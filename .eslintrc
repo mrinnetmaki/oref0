@@ -12,7 +12,6 @@
     }
   },
   "rules": {
-    "no-undef": "off",
     "vars-on-top": "off",
     "no-var": "off",
     "camelcase": "off",
