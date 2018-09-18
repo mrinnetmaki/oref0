@@ -1,0 +1,14 @@
+{
+  "extends": ["airbnb-base"],
+  "env": {
+    "es6": false
+  },
+  "parserOptions": {
+    "ecmaVersion": 5,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "generators": false,
+      "objectLiteralDuplicateProperties": false
+    }
+  }
+}

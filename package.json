@@ -108,6 +108,9 @@
   },
   "devDependencies": {
     "coveralls": "^2.11.12",
+    "eslint": "^5.6.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
     "istanbul": "^0.4.4",
     "mocha": "^2.3.3",
     "mocha-lcov-reporter": "^1.2.0",
